@@ -1,1 +1,0 @@
-/home/artur/scripts/alarm.sh
