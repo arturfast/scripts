@@ -1,0 +1,1 @@
+/home/artur/scripts/block-youtube.sh

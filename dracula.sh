@@ -1,0 +1,1 @@
+/home/artur/scripts/dracula.sh
